@@ -1,0 +1,13 @@
+html {
+    color: white;
+    background-color:black
+  }
+
+#gray {
+    color: lightgray;
+  }
+
+/* osazení nahoře 30px, vpravo 50px, dole 70px, vlevo 10px */
+.box3 {
+  padding: 30px 50px 70px 10px;
+ }
